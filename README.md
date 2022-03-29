@@ -1,17 +1,31 @@
 # Hi there 👋 I'm Gianluca!
 
-I’m a Front End Developer born, raised and living in Argentina gaining experience in building responsive, accessible websites and web applications using JavaScript, Firebase and React. Even though I'm mostly a self-taught developer, I recently graduated from a 8 months bootcamp and I’m looking to expand my portfolio, get my first formal work experience and collaborate with anyone that is willing to gain some experience too!
+I’m a Fullstack developer from Argentina currently finishing a 800hs coding bootcamp. I'm always interested in gaining experience using React, Redux, Node, Express and MongoDB while I apply my knowledge anad learn continuosly. I’m looking to expand my portfolio, get my first formal work experience and find solutions to different problems both individually and as a team.
 
 ## Skill set:
 
 <p align="left">
 <img src="./assets/react.svg" height="auto" width="40">
 
+<img src="./assets/redux.svg" height="auto" width="40">
+
+<img src="./assets/nodejs.svg" height="auto" width="40">
+
+<img src="./assets/Frame_1.svg" height="auto" width="40">
+
+<img src="./assets/mongodb.svg" height="auto" width="40">
+
+<img src="./assets/sequelizejs.svg" height="auto" width="40">
+
+<img src="./assets/postgresql.svg" height="auto" width="40">
+
 <img src="./assets/firebase.svg" height="auto" width="40">
+
+<img src="./assets/javascript.svg" height="auto" width="40">
 
 <img src="./assets/jquery.svg" height="auto" width="40">
 
-<img src="./assets/javascript.svg" height="auto" width="40">
+<img src="./assets/jestjsio.svg" height="auto" width="40">
 
 <img src="./assets/sass.svg" height="auto" width="40">
 
@@ -26,17 +40,16 @@ I’m a Front End Developer born, raised and living in Argentina gaining experie
 
 ### :technologist: I'm always working on:
 
-- Improving my Javascript and React skills
+- Improving my overall Javascript skills
 
 ### :nerd_face: I'm currently learning:
 
-- Angular
+- MongoDB
 
 ### :thinking: I want to learn:
 
-- Nodejs
-- Express
-- MongoDB
+- Typescript
+- NextJs
 
 ### Outside of coding I enjoy:
 
@@ -44,3 +57,4 @@ I’m a Front End Developer born, raised and living in Argentina gaining experie
 - Playing video games :video_game:
 - Travelling :airplane:
 - Netflix series :popcorn:
+- Helping people :handshake:
