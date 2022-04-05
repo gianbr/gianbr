@@ -50,6 +50,7 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 
 - Typescript
 - NextJs
+- Test-Driven Development
 
 ### :sunglasses: Outside of coding I enjoy:
 
