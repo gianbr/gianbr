@@ -51,10 +51,15 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 - Typescript
 - NextJs
 
-### Outside of coding I enjoy:
+### :sunglasses: Outside of coding I enjoy:
 
 - Spending quality time with my girlfriend :couple_with_heart:
 - Playing video games :video_game:
 - Travelling :airplane:
 - Netflix series :popcorn:
 - Helping people :handshake:
+
+### :round_pushpin: Contact me at:
+
+- https://www.linkedin.com/in/gianluca-brunner/
+- gianbrunner1@gmail.com
