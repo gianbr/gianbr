@@ -1,6 +1,16 @@
-# Hi there 👋 I'm Gianluca!
+# Hi there 👋 I'm Gian!
 
-I’m a Fullstack developer from Argentina currently finishing a 800hs coding bootcamp. I'm always interested in gaining experience using React, Redux, Node, Express and MongoDB while I apply my knowledge anad learn continuosly. I’m looking to expand my portfolio, get my first formal work experience and find solutions to different problems both individually and as a team.
+I am a committed and very dedicated developer, willing to apply my knowledge and continually learn. I am enthusiastic about helping and being helpful, and as I have worked as a tutor in a coding school, I participated in constant debates, interested in finding solutions to different problems, both individually and as a team.
+
+Thank you very much for your time and do not hesitate to contact me!
+
+## Work experience:
+
+### May 2021 - December 2022
+- Take attendance in class. Correction of mandatory challenges and final pre-deliveries. Resolution of queries inside and outside of class. After Class Teaching. Students progress monitoring. All done in HTML, CSS, JavaScript and ReactJs.
+
+### June 2022 - September 2022 
+- I developed new functions for an e-commerce, modularized and improved the code, as well as the performance of the website in general. I was also involved in UX and UI development as well as SEO improvement to improve the overall experience of the website.
 
 ## Skill set:
 
@@ -40,16 +50,15 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 
 ### :technologist: I'm always working on:
 
-- Improving my overall Javascript skills
+- Improving my overall Javascript and React skills
 
 ### :nerd_face: I'm currently learning:
 
-- MongoDB
+- NextJs, Astro
 
 ### :thinking: I want to learn:
 
 - Typescript
-- NextJs
 - Test-Driven Development
 
 ### :sunglasses: Outside of coding I enjoy:
