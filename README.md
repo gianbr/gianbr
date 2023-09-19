@@ -6,11 +6,11 @@ Thank you very much for your time and do not hesitate to contact me!
 
 ## Work experience:
 
-### May 2021 - December 2022
+### :technologist:  May 2021 - December 2022
 - Take attendance in class. Correction of mandatory challenges and final pre-deliveries. Resolution of queries inside and outside of class. After Class Teaching. Students progress monitoring. All done in HTML, CSS, JavaScript and ReactJs.
 
-### June 2022 - September 2022 
-- I developed new functions for an e-commerce, modularized and improved the code, as well as the performance of the website in general. I was also involved in UX and UI development as well as SEO improvement to improve the overall experience of the website.
+### :technologist: June 2022 - September 2022 
+- I developed new functions for an e-commerce, modularized and improved the code, as well as the performance of the website in general. I was also involved in UX and UI development as well as SEO to improve the overall experience of the website.
 
 ## Skill set:
 
@@ -48,7 +48,7 @@ Thank you very much for your time and do not hesitate to contact me!
 <img src="./assets/html5.svg" height="auto" width="40">
 </p>
 
-### :technologist: I'm always working on:
+### :muscle: I'm always working on:
 
 - Improving my overall Javascript and React skills
 
