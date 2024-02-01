@@ -6,10 +6,10 @@ Thank you very much for your time and do not hesitate to contact me!
 
 ## Work experience:
 
-### :technologist:  May 2021 - December 2022
+### :technologist:  CoderHouse / May 2021 - December 2022
 - Take attendance in class. Correction of mandatory challenges and final pre-deliveries. Resolution of queries inside and outside of class. After Class Teaching. Students progress monitoring. All done in HTML, CSS, JavaScript and ReactJs.
 
-### :technologist: June 2022 - September 2022 
+### :technologist: Vivet / June 2022 - September 2022 
 - I developed new functions for an e-commerce, modularized and improved the code, as well as the performance of the website in general. I was also involved in UX and UI development as well as SEO to improve the overall experience of the website.
 
 ## Skill set:
@@ -54,12 +54,11 @@ Thank you very much for your time and do not hesitate to contact me!
 
 ### :nerd_face: I'm currently learning:
 
-- NextJs, Astro
+- NextJs, Typescript, Astro
 
 ### :thinking: I want to learn:
 
-- Typescript
-- Test-Driven Development
+- Java, Linux
 
 ### :sunglasses: Outside of coding I enjoy:
 
