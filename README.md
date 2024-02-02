@@ -1,16 +1,14 @@
 # Hi there 👋 I'm Gian!
 
-I am a committed and very dedicated developer, willing to apply my knowledge and continually learn. I am enthusiastic about helping and being helpful, and as I have worked as a tutor in a coding school, I participated in constant debates, interested in finding solutions to different problems, both individually and as a team.
-
-Thank you very much for your time and do not hesitate to contact me!
+Passionate and dedicated developer with a commitment to ongoing learning. As a former coding school tutor, I thrive in collaborative environments, actively engaging in discussions and contributing to problem-solving both independently and within a team. Eager to apply my knowledge and always ready to help. Feel free to reach out—I look forward to connecting with you!
 
 ## Work experience:
 
 ### :technologist:  CoderHouse / May 2021 - December 2022
-- Take attendance in class. Correction of mandatory challenges and final pre-deliveries. Resolution of queries inside and outside of class. After Class Teaching. Students progress monitoring. All done in HTML, CSS, JavaScript and ReactJs.
+- Diligently managed class attendance, assessed and corrected mandatory challenges and final pre-deliveries, and addressed queries both in and outside of class. Conducted post-class teaching sessions and monitored students' progress, utilizing expertise in HTML, CSS, JavaScript, and ReactJs. Adept at providing comprehensive support to foster an enriched learning experience.
 
 ### :technologist: Vivet / June 2022 - September 2022 
-- I developed new functions for an e-commerce, modularized and improved the code, as well as the performance of the website in general. I was also involved in UX and UI development as well as SEO to improve the overall experience of the website.
+- Contributed significantly to their e-commerce platform by developing new features, optimizing code for modularity, and enhancing overall website performance. Played a key role in UX and UI development, leveraging expertise in SEO to elevate the overall user experience. Additionally, collaborated on internal product development initiatives, showcasing a versatile skill set in HTML, CSS, JavaScript, and ReactJs.
 
 ## Skill set:
 
@@ -58,7 +56,7 @@ Thank you very much for your time and do not hesitate to contact me!
 
 ### :thinking: I want to learn:
 
-- Java, Linux
+- Remix, Java, Linux
 
 ### :sunglasses: Outside of coding I enjoy:
 
